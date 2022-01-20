@@ -1,2 +1,2 @@
 Budget App using Javascript.
-Deployed App:https://eager-rosalind-a1dd40.netlify.app
+Deployed App:https://elegant-haibt-41bf4d.netlify.app/
